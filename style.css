@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    /* Flex Makes Things Neatly Under Each Other 
+    and also makes things centered */
+    align-items: center;
+    justify-content: center;
+    /* align items and justify content 
+    will make it so it's centered both 
+    horizontally and vertically*/
+    height: 100vh; /*Takes entire height of screen*/
+    margin: 0; /*Removes ScrollBar*/
+    font-family: 'VT323', monospace;
+}
